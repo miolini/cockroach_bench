@@ -1,5 +1,6 @@
 # cockroach_bench
 
+```bash
 Usage of ./cockroach_bench:
   -addrs string
     	addrs list host:port (default "localhost:26257")
@@ -15,3 +16,4 @@ Usage of ./cockroach_bench:
     	number (default 10000)
   -ri int
     	report interval in secs (default 5)
+```
