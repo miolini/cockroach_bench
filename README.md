@@ -1,4 +1,4 @@
-= cockroach_bench =
+# cockroach_bench
 
 Usage of ./cockroach_bench:
   -addrs string
